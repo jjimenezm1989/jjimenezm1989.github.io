@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Main"
+title                    : "José L. Jiménez"
 title_separator          : "-"
-name                     : &name "name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "José L. Jiménez"
+description              : &description "Statistician @ Novartis"
+url                      : https://jjimenezm1989.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jjimenezm1989/jjimenezm1989.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -272,6 +272,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 # Archives
