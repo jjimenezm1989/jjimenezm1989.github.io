@@ -10,7 +10,11 @@ redirect_from:
 
 I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before joinning Novartis, I was a Marie Curie fellow in the EU-funded network [IDEAS](https://www.ideas-itn.eu). I was based in [Politecnico di Torino](https://polito.it) and I was working under the supervision of [Prof. Mauro Gasparini](http://calvino.polito.it/~gasparini/) and under the co-supervision of Prof. Mourad Tighiouart ([Cedars-Sinai Medical Center](https://www.cedars-sinai.edu/research/areas/biostatistics-bioinformatics.html)). I have a strong interest and great enthusiasm for methodological research to improve efficiency of the design and analysis of clinical trials. See my [Google scholar](https://scholar.google.com/citations?user=odd6u8wAAAAJ&hl=es) and [Github](https://www.github.com/jjimenezm1989) profiles.
 
- Articles in refereed journals
+Research Interests
+
+Bayesian methods, dose finding clinical trials, non-proportional hazards.
+
+Articles in refereed journals
  
  1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Accepted in PloS one*. [[arXiv Link]](https://arxiv.org/pdf/2005.09213.pdf)
  
