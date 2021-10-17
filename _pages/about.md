@@ -42,6 +42,8 @@ Bayesian methods, dose finding clinical trials, non-proportional hazards.
 <!-- blank line -->
 
 **Presentations**
-* Contributed talk at ISBA World Meeting (July 2021)
-* Item 2 Invited talk at ISBS 2019
+* [2021] Invited talk at PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology.
+* [2021] Contributed talk at ISBA World Meeting.
+* [2019] Invited talk at International Symposium in Biopharmaceutical Statistics.
+* [2019] Invited talk at Symposium on Innovative Statistical Methods in Oncology [Organized by Servier]
 
