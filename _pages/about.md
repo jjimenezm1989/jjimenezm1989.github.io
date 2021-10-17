@@ -12,7 +12,7 @@ I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before
 
 **Research Interests**
 
-<sup><sup>Bayesian methods, dose finding clinical trials, non-proportional hazards.<sup><sup>
+<sup>Bayesian methods, dose finding clinical trials, non-proportional hazards.<sup>
 
 **Articles in refereed journals**
  
