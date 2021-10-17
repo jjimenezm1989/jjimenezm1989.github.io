@@ -37,6 +37,12 @@ Bayesian methods, dose finding clinical trials, non-proportional hazards.
 1. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of early phase cancer trials with drug combinations. *Modern Statistical Methods for Health Research*, 1-31. [ISBN 978-3-030-72436-8]
 1. **Jiménez, J. L.**, Stalbovskaya, V. and Jones, B. (2020). Response to comments on "Properties of the weighted log-rank test in the design of confirmatory studies with delayed effects" by José L. Jiménez, Viktoriya Stalbovskaya and Byron Jones, Pharmaceutical Statistics, 2019; 18: 287-303. *Pharmaceutical statistics*, 19(5), 736-740. [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/pst.2021)
 
+**Manuscripts under review**
+
+1. Magirr, D. and **Jiménez, J. L.** Designing group sequential clinical trials when a delayed effect is anticipated: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (revision requested)
+1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
+1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
+
 <!-- blank line -->
 ----
 <!-- blank line -->
