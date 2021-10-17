@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José L. Jiménez"
 title_separator          : "-"
 name                     : &name "José L. Jiménez"
-description              : &description "Statistician, Novartis Pharma A.G."
+description              : &description "Statistician at Novartis"
 url                      : https://jjimenezm1989.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jjimenezm1989/jjimenezm1989.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "José L. Jiménez"
   avatar           : "profile.png"
-  bio              : "Statistician @ Novartis"
-  location         : "Switzerland"
+  bio              : "Statistician at Novartis"
+  location         : "Basel, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=odd6u8wAAAAJ&hl=es"
