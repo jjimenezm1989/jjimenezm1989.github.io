@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before joinning Novartis, I was a Marie Curie fellow in the EU-funded network [IDEAS](https://www.ideas-itn.eu). I was based in [Politecnico di Torino](https://polito.it) and I was working under the supervision of [Prof. Mauro Gasparini](http://calvino.polito.it/~gasparini/) and under the co-supervision of Prof. Mourad Tighiouart ([Cedars-Sinai Medical Center](https://www.cedars-sinai.edu/research/areas/biostatistics-bioinformatics.html)). I have a strong interest and great enthusiasm for methodological research to improve efficiency of the design and analysis of clinical trials. See my [Google scholar](https://scholar.google.com/citations?user=odd6u8wAAAAJ&hl=es) and [Github](https://www.github.com/jjimenezm1989) profiles.
 
-Research Interests
+**Research Interests**
 
 Bayesian methods, dose finding clinical trials, non-proportional hazards.
 
-Articles in refereed journals
+**Articles in refereed journals**
  
  1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Accepted in PloS one*. [[arXiv Link]](https://arxiv.org/pdf/2005.09213.pdf)
  
@@ -26,7 +26,7 @@ Articles in refereed journals
     
 1. **Jiménez, J. L.**, Tighiouart, M. and Gasparini, M. (2019). Cancer phase I trial design using drug combinations when a fraction of dose limiting toxicities is attributable to one or more agents. *Biometrical Journal*, 61(2), 319-332. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700166?casa_token=JBD1OhePX8kAAAAA%3A8mlDCuaRAPMAYWz9Q-gmVYvfZ-qcZ68-o-fnryk2mG6E_553qZAKgyg-Ds4rgB2bbbI4R8uyOPaKlw). [[Github Respository]](https://github.com/jjimenezm1989/Partial-toxicity-attributions-in-drug-combination-trials)
     
-Book Chapters and Discussions [PEER-REVIEWED]
+**Book Chapters and Discussions [PEER-REVIEWED]**
 
 1. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of early phase cancer trials with drug combinations. *Modern Statistical Methods for Health Research*, 1-31. [ISBN 978-3-030-72436-8]
 
