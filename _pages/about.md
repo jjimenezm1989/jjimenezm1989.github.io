@@ -22,7 +22,7 @@ Bayesian methods, dose finding clinical trials, non-proportional hazards.
 ----
 <!-- blank line -->
 
-**Research**
+**Publications**
 
 **Articles in refereed journals**
  
