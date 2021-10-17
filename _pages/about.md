@@ -12,11 +12,11 @@ I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before
 
 **Research Interests**
 
-<sup>Bayesian methods, dose finding clinical trials, non-proportional hazards.<sup>
+Bayesian methods, dose finding clinical trials, non-proportional hazards.
 
 **Articles in refereed journals**
  
- 1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Accepted in PloS one*. [[arXiv Link]](https://arxiv.org/pdf/2005.09213.pdf)
+ <sup>1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Accepted in PloS one*. [[arXiv Link]](https://arxiv.org/pdf/2005.09213.pdf)<sup>
  
  1. **Jiménez, J. L.** (2020). Quantifying treatment differences in confirmatory trials under non-proportional hazards. *Journal of Applied Statistics*, 1-19. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1815673) [[Github Respository]](https://github.com/jjimenezm1989/Quantifying-treatment-differences-in-confirmatory-trials-under-non-proportional-hazards)
 
