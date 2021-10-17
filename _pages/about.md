@@ -42,6 +42,6 @@ Bayesian methods, dose finding clinical trials, non-proportional hazards.
 <!-- blank line -->
 
 **Presentations**
-Item 1 Contributed talk at ISBA World Meeting (July 2021)
-Item 2 Invited talk at ISBS 2019
+* Contributed talk at ISBA World Meeting (July 2021)
+* Item 2 Invited talk at ISBS 2019
 
