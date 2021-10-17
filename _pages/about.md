@@ -53,3 +53,11 @@ Bayesian methods, dose finding clinical trials, non-proportional hazards.
 * Invited talk at International Symposium in Biopharmaceutical Statistics (2019)
 * Invited talk at Servier's symposium on Innovative Statistical Methods in Oncology (2019)
 
+<!-- blank line -->
+----
+<!-- blank line -->
+
+**Contact**
+
+jose_luis *dot* jimenez *at* novartis *dot* com
+
