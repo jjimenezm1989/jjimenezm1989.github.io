@@ -16,7 +16,7 @@ I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before
 
 **Education**
 
-Politecnico di Torino and Università degli Study di Torino, Italy <br/>
+Politecnico di Torino and Università degli Studi di Torino, Italy <br/>
 *PhD in Pure and Applied Mathemtatics (Statistics)*, 2018 <br/>
 Advisor: Mauro Gasparini. Co-advisor: Mourad Tighiouart.
 
