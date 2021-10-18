@@ -26,7 +26,7 @@ Advisor: Mauro Gasparini. Co-advisor: Mourad Tighiouart.
 
 **Research Interests**
 
-Bayesian methods, dose finding clinical trials, non-proportional hazards.
+Bayesian methods, phase I-II clinical trials, non-proportional hazards.
 
 <!-- blank line -->
 ----
