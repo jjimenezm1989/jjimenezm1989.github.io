@@ -14,6 +14,16 @@ I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before
 ----
 <!-- blank line -->
 
+**Education**
+
+Politecnico di Torino, Italy
+PhD in Pure and Applied Mathemtatics, 2018
+Advisor: Mauro Gasparini. Co-advisor: Mourad Tighiouart
+
+<!-- blank line -->
+----
+<!-- blank line -->
+
 **Research Interests**
 
 Bayesian methods, dose finding clinical trials, non-proportional hazards.
