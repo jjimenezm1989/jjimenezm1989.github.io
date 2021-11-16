@@ -45,7 +45,7 @@ Bayesian methods, phase I-II clinical trials, non-proportional hazards.
     
 **Book Chapters (peer-reviewed)**
 
-1. **Jim\'enez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+7. **Jim\'enez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
 
 **Manuscripts under review**
 
