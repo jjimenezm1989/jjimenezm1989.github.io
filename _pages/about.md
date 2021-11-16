@@ -49,9 +49,9 @@ Bayesian methods, phase I-II clinical trials, non-proportional hazards.
 
 **Manuscripts under review**
 
-1. Magirr, D. and **Jiménez, J. L.** Designing group sequential clinical trials when a delayed effect is anticipated: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (minor revision requested)
-1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
-1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
+8. Magirr, D. and **Jiménez, J. L.** Designing group sequential clinical trials when a delayed effect is anticipated: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (minor revision requested)
+9. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
+10. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
 
 <!-- blank line -->
 ----
