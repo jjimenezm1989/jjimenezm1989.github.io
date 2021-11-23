@@ -26,7 +26,7 @@ Advisor: Mauro Gasparini. Co-advisor: Mourad Tighiouart.
 
 **Research Interests**
 
-Bayesian methods, phase I-II clinical trials, non-proportional hazards.
+Bayesian methods, phase I-II clinical trials, survival analysis.
 
 <!-- blank line -->
 ----
@@ -45,11 +45,11 @@ Bayesian methods, phase I-II clinical trials, non-proportional hazards.
     
 **Book Chapters (peer-reviewed)**
 
-7. **Jim\'enez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+7. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
 
 **Manuscripts under review**
 
-8. Magirr, D. and **Jiménez, J. L.** Designing group sequential clinical trials when a delayed effect is anticipated: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (minor revision requested)
+8. Magirr, D. and **Jiménez, J. L.** Design and Analysis of group-sequential clinical trials based on a modestly-weighted log-rank test in anticipation of a delayed separation of survival curves: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (minor revision submitter)
 9. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
 10. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
 
