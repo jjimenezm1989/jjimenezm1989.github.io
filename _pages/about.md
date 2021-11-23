@@ -16,7 +16,7 @@ I am a Statistician at [Novartis](https://www.novartis.com), Switzerland. Before
 
 **Education**
 
-PhD in Pure and Applied Mathematics (Statistics) | Politecnico di Torino (2018)
+PhD in Pure and Applied Mathematics (Statistics) -- Politecnico di Torino (2018)
 
 <!-- blank line -->
 ----
