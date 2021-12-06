@@ -44,7 +44,7 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
     
 **Book Chapters (peer-reviewed)**
 
-7. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+8. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
 
 **Manuscripts under review**
 
