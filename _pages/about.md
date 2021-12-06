@@ -33,7 +33,8 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 **Publications**
 
 **Articles in refereed journals**
- 
+
+1. Magirr, D. and **Jiménez, J. L.** Design and Analysis of group-sequential clinical trials based on a modestly-weighted log-rank test in anticipation of a delayed separation of survival curves: A practical guidance. (2021+) [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (*Accepted in Clinical Trials*)
 1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Plos One*, 16(11): e0259178. [[Link + R code]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259178)
 1. **Jiménez, J. L.** (2020). Quantifying treatment differences in confirmatory trials under non-proportional hazards. *Journal of Applied Statistics*, 1-19. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1815673) [[Github Respository]](https://github.com/jjimenezm1989/Quantifying-treatment-differences-in-confirmatory-trials-under-non-proportional-hazards)
 1. **Jiménez, J. L.**, Stalbovskaya, V. and Jones, B. (2020). Response to comments on "Properties of the weighted log-rank test in the design of confirmatory studies with delayed effects" by José L. Jiménez, Viktoriya Stalbovskaya and Byron Jones, Pharmaceutical Statistics, 2019; 18: 287-303. *Pharmaceutical statistics*, 19(5), 736-740. [[Link + R code]](https://onlinelibrary.wiley.com/doi/10.1002/pst.2021)
@@ -47,7 +48,6 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 
 **Manuscripts under review**
 
-8. Magirr, D. and **Jiménez, J. L.** Design and Analysis of group-sequential clinical trials based on a modestly-weighted log-rank test in anticipation of a delayed separation of survival curves: A practical guidance. [[arXiv Link]](https://arxiv.org/pdf/2102.05535.pdf) (minor revision submitted)
 9. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
 10. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
 
