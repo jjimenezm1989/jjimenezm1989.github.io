@@ -44,13 +44,13 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
     
 **Book Chapters (peer-reviewed)**
 
-8. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+1. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
 
 **Manuscripts under review**
 
-9. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
-10. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
-11. Magirr, D. and **Jiménez, J. L.** Stratified modestly-weighted log-rank tests in settings with an anticipated delayed separation of survival curves. [[arXiv Link]](https://arxiv.org/pdf/2201.10445.pdf) (under review)
+1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
+1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (under review)
+1. Magirr, D. and **Jiménez, J. L.** Stratified modestly-weighted log-rank tests in settings with an anticipated delayed separation of survival curves. [[arXiv Link]](https://arxiv.org/pdf/2201.10445.pdf) (under review)
 
 <!-- blank line -->
 ----
