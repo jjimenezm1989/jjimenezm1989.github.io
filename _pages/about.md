@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Statistician at [Novartis](https://www.novartis.com). Before, I was a Marie Curie fellow in the EU-funded network [IDEAS](https://www.ideas-itn.eu). I was based in [Politecnico di Torino](https://polito.it) and I was working under the supervision of [Prof. Mauro Gasparini](http://calvino.polito.it/~gasparini/) and under the co-supervision of Prof. Mourad Tighiouart (Cedars-Sinai Medical Center, USA). I have a strong interest and great enthusiasm for methodological research to improve efficiency of the design and analysis of clinical trials. See my [Google scholar](https://scholar.google.com/citations?user=odd6u8wAAAAJ&hl=es) profile.
 
+[Download full CV](https://jjimenezm1989.github.io/images/Jimenez_CV.pdf)
+
 <!-- blank line -->
 ----
 <!-- blank line -->
