@@ -59,6 +59,7 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 <!-- blank line -->
 
 **Latest Presentations**
+* [2022] Invited talk at COMPSTAT Conference, Bologna, Italy.
 * [2021] Invited talk at PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology, Online.
 * [2021] Contributed talk at ISBA World Meeting, Online.
 * [2019] Invited talk at International Symposium in Biopharmaceutical Statistics, Kyoto, Japan.
