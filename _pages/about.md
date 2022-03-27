@@ -16,7 +16,8 @@ I am a Statistician at [Novartis](https://www.novartis.com). Before, I was a Mar
 ----
 <!-- blank line -->
 **News**
-[2022] Invited presentation at [COMPSTAT](http://www.compstat2022.org) Conference, Bologna, Italy.
+
+* Invited presentation at [COMPSTAT 2022](http://www.compstat2022.org) Conference, Bologna, Italy.
 
 <!-- blank line -->
 ----
