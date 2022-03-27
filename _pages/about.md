@@ -15,6 +15,12 @@ I am a Statistician at [Novartis](https://www.novartis.com). Before, I was a Mar
 <!-- blank line -->
 ----
 <!-- blank line -->
+**News**
+[2022] Invited presentation at [COMPSTAT](http://www.compstat2022.org) Conference, Bologna, Italy.
+
+<!-- blank line -->
+----
+<!-- blank line -->
 
 **Education**
 
@@ -59,7 +65,6 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 <!-- blank line -->
 
 **Latest Presentations**
-* [2022] Invited talk at COMPSTAT Conference, Bologna, Italy.
 * [2021] Invited talk at PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology, Online.
 * [2021] Contributed talk at ISBA World Meeting, Online.
 * [2019] Invited talk at International Symposium in Biopharmaceutical Statistics, Kyoto, Japan.
