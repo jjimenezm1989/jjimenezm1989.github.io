@@ -41,24 +41,35 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 
 **Publications**
 
+**Dose finding Methodology**
+
+_Articles in refereed journals_
+
+1. **Jiménez, J. L.**, Kim, S. and Tighiouart, M. (2020). A Bayesian seamless phase I–II trial design with two stages for cancer clinical trials with drug combinations. *Biometrical Journal*, 62(5), 1300-1314. [[Link + R code]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201900095?casa_token=sn9c3PkXFm4AAAAA%3AA_cdX7jLOEMZLmuupUTm7mdNBE4fIh82Y5evsYS0IMmMVM1nc1wTBTnA8ecqUnXEPgR8xVskQfvjNg)
+1. **Jiménez, J. L.**, Tighiouart, M. and Gasparini, M. (2019). Cancer phase I trial design using drug combinations when a fraction of dose limiting toxicities is attributable to one or more agents. *Biometrical Journal*, 61(2), 319-332. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700166?casa_token=JBD1OhePX8kAAAAA%3A8mlDCuaRAPMAYWz9Q-gmVYvfZ-qcZ68-o-fnryk2mG6E_553qZAKgyg-Ds4rgB2bbbI4R8uyOPaKlw). [[Github Respository]](https://github.com/jjimenezm1989/Partial-toxicity-attributions-in-drug-combination-trials)
+    
+_Book Chapters (peer-reviewed)_
+
+1. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+
+_Manuscripts under review_
+
+1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (minor review at JRSS - C)
+1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
+
+
+**Survival Analysis**
+
 _Articles in refereed journals_
 
 1. Magirr, D. and **Jiménez, J. L.** (2022). Design and Analysis of group-sequential clinical trials based on a modestly-weighted log-rank test in anticipation of a delayed separation of survival curves: A practical guidance. *Clinical Trials*, 19(2), 201-210. [[Link + R code]](https://doi.org/10.1177/17407745211072848)
 1. **Jiménez, J. L.** (2022). Quantifying treatment differences in confirmatory trials under non-proportional hazards. *Journal of Applied Statistics*, 49(2), 466-484. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1815673) [[Github Respository]](https://github.com/jjimenezm1989/Quantifying-treatment-differences-in-confirmatory-trials-under-non-proportional-hazards)
 1. **Jiménez, J. L.**, Niewczas, J., Bore, A. and Burman, C. F. (2021). A modified weighted log-rank test for confirmatory trials with a high proportion of treatment switching. *Plos One*, 16(11): e0259178. [[Link + R code]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259178)
 1. **Jiménez, J. L.**, Stalbovskaya, V. and Jones, B. (2020). Response to comments on "Properties of the weighted log-rank test in the design of confirmatory studies with delayed effects" by José L. Jiménez, Viktoriya Stalbovskaya and Byron Jones, Pharmaceutical Statistics, 2019; 18: 287-303. *Pharmaceutical statistics*, 19(5), 736-740. [[Link + R code]](https://onlinelibrary.wiley.com/doi/10.1002/pst.2021)
-1. **Jiménez, J. L.**, Kim, S. and Tighiouart, M. (2020). A Bayesian seamless phase I–II trial design with two stages for cancer clinical trials with drug combinations. *Biometrical Journal*, 62(5), 1300-1314. [[Link + R code]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201900095?casa_token=sn9c3PkXFm4AAAAA%3AA_cdX7jLOEMZLmuupUTm7mdNBE4fIh82Y5evsYS0IMmMVM1nc1wTBTnA8ecqUnXEPgR8xVskQfvjNg)
 1. **Jiménez, J. L.**, Stalbovskaya, V. and Jones, B. (2019). Properties of the weighted log‐rank test in the design of confirmatory studies with delayed effects. *Pharmaceutical statistics*, 18(3), 287-303. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1923?casa_token=0es2RiRRqcMAAAAA%3AMS_PW064Z15s-rLIOB95JUByGc-t_3Mu7nrcfdeJ5QbVQIv0FHWcrnd_0PGu7Aw6qCLW5lhiIt41Tg).
-1. **Jiménez, J. L.**, Tighiouart, M. and Gasparini, M. (2019). Cancer phase I trial design using drug combinations when a fraction of dose limiting toxicities is attributable to one or more agents. *Biometrical Journal*, 61(2), 319-332. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700166?casa_token=JBD1OhePX8kAAAAA%3A8mlDCuaRAPMAYWz9Q-gmVYvfZ-qcZ68-o-fnryk2mG6E_553qZAKgyg-Ds4rgB2bbbI4R8uyOPaKlw). [[Github Respository]](https://github.com/jjimenezm1989/Partial-toxicity-attributions-in-drug-combination-trials)
-    
-**Book Chapters (peer-reviewed)**
 
-1. **Jiménez, J. L.**, Diniz, M.A., Rogatko, A., and Tighiouart, M. (2021). Designs of Early Phase Cancer Trials with Drug Combinations. In *Modern Statistical Methods for Health Research* (pp. 131-160). Springer, Cham.
+_Manuscripts under review_
 
-**Manuscripts under review**
-
-1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
-1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (minor review at JRSS - C)
 1. Magirr, D. and **Jiménez, J. L.** Stratified modestly-weighted log-rank tests in settings with an anticipated delayed separation of survival curves. [[arXiv Link]](https://arxiv.org/pdf/2201.10445.pdf) (under review)
 
 <!-- blank line -->
