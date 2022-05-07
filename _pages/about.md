@@ -38,8 +38,8 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 <!-- blank line -->
 ----
 <!-- blank line -->
+<font size="1"> **Publications**</font> 
 
-**Publications**
 
 **Dose finding Methodology**
 
