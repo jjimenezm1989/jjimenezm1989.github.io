@@ -41,7 +41,7 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 
 **Publications**
 
-**Articles in refereed journals**
+* Articles in refereed journals *
 
 1. Magirr, D. and **Jiménez, J. L.** (2022). Design and Analysis of group-sequential clinical trials based on a modestly-weighted log-rank test in anticipation of a delayed separation of survival curves: A practical guidance. *Clinical Trials*, 19(2), 201-210. [[Link + R code]](https://doi.org/10.1177/17407745211072848)
 1. **Jiménez, J. L.** (2022). Quantifying treatment differences in confirmatory trials under non-proportional hazards. *Journal of Applied Statistics*, 49(2), 466-484. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1815673) [[Github Respository]](https://github.com/jjimenezm1989/Quantifying-treatment-differences-in-confirmatory-trials-under-non-proportional-hazards)
