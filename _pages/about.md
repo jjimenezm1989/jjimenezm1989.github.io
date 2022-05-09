@@ -32,7 +32,7 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 ----
 <!-- blank line -->
 
-**Publications in phase I and phase I-II clinical trial designs**
+**Publications in Phase I and Phase I-II Clinical Trial Designs**
 
 _Articles in refereed journals_
 
@@ -52,7 +52,7 @@ _Manuscripts under review_
 ----
 <!-- blank line -->
 
-**Publications in survival analysis**
+**Publications in Survival Analysis**
 
 _Articles in refereed journals_
 
