@@ -38,10 +38,8 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 <!-- blank line -->
 ----
 <!-- blank line -->
-<font size="1"> **Publications**</font> 
 
-
-**Dose finding Methodology**
+**Publications in phase I and phase I-II clinical trial designs**
 
 _Articles in refereed journals_
 
@@ -57,8 +55,11 @@ _Manuscripts under review_
 1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (minor review at JRSS - C)
 1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
-**Survival Analysis**
+**Publications in survival analysis**
 
 _Articles in refereed journals_
 
