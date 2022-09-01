@@ -36,6 +36,7 @@ Bayesian methods, phase I-II clinical trials, survival analysis.
 
 _Articles in refereed journals_
 
+1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. *Accepted for publication*. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf)
 1. **Jiménez, J. L.**, Kim, S. and Tighiouart, M. (2020). A Bayesian seamless phase I–II trial design with two stages for cancer clinical trials with drug combinations. *Biometrical Journal*, 62(5), 1300-1314. [[Link + R code]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201900095?casa_token=sn9c3PkXFm4AAAAA%3AA_cdX7jLOEMZLmuupUTm7mdNBE4fIh82Y5evsYS0IMmMVM1nc1wTBTnA8ecqUnXEPgR8xVskQfvjNg)
 1. **Jiménez, J. L.**, Tighiouart, M. and Gasparini, M. (2019). Cancer phase I trial design using drug combinations when a fraction of dose limiting toxicities is attributable to one or more agents. *Biometrical Journal*, 61(2), 319-332. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700166?casa_token=JBD1OhePX8kAAAAA%3A8mlDCuaRAPMAYWz9Q-gmVYvfZ-qcZ68-o-fnryk2mG6E_553qZAKgyg-Ds4rgB2bbbI4R8uyOPaKlw). [[Github Respository]](https://github.com/jjimenezm1989/Partial-toxicity-attributions-in-drug-combination-trials)
     
@@ -45,7 +46,6 @@ _Book Chapters (peer-reviewed)_
 
 _Manuscripts under review_
 
-1. **Jiménez, J. L.** and Tighiouart, M. Combining cytotoxic agents with continuous dose levels in seamless phase I-II clinical trials. [[arXiv Link]](https://arxiv.org/pdf/2109.14231.pdf) (minor review at JRSS - C)
 1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
 
 <!-- blank line -->
