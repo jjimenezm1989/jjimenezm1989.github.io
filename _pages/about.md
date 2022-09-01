@@ -47,6 +47,7 @@ _Book Chapters (peer-reviewed)_
 _Manuscripts under review_
 
 1. **Jiménez, J. L.** and Zheng, H. A Bayesian adaptive design for dual-agent phase I-II cancer clinical trials combining efficacy data across stages. [[arXiv Link]](https://arxiv.org/pdf/2106.08277.pdf) (under review)
+1. Tighiouart, M., **Jim\'enez, J. L.**, Diniz, M.A. and Rogatko, A. Modeling synergism in early phase cancer trials with drug combination with continuous dose levels: is there an added value?. [[arXiv Link]](https://arxiv.org/pdf/2208.05726.pdf) (under review)
 
 <!-- blank line -->
 ----
