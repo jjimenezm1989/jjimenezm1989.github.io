@@ -19,6 +19,7 @@ I am a Statistician at [Novartis](https://www.novartis.com). Before, I was a Mar
 **Education**
 
 PhD in Statistics (2018) -- Politecnico di Torino, Italy.
+<!-- blank line -->
 MsC in Machine Learning (2015) -- Universidad Autónoma de Madrid, Spain.
 
 <!-- blank line -->
